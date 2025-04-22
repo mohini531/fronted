@@ -1,0 +1,29 @@
+body{
+  padding: 0px;
+}
+.navbar{
+   background-color:  rosybrown;
+  overflow: hidden;
+}
+.navbar a{
+    color: aliceblue;
+    font-size:20px;
+    text-align: center;
+   padding:30px 10px;
+   float: left;
+  text-decoration: none;
+}
+.navbar a:hover{
+    background-color:blanchedalmond;
+    color: black;
+} 
+.ch{
+  text-align: center;
+  color: indianred;
+  font-size: x-large;
+}
+.am{
+  float: right;
+  height: 400px;
+  width: 400px;
+}
